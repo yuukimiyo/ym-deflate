@@ -1,0 +1,37 @@
+{
+  "private": false,
+  "name": "ym-deflate",
+  "version": "0.1.0",
+  "description": "Text deflate/inflate utility.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yuukimiyo/ym-deflate.git"
+  },
+  "keywords": [
+    "base64",
+    "text",
+    "deflate",
+    "inflate",
+    "encode",
+    "decode",
+    "compress"
+  ],
+  "author": "yuuki miyoshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuukimiyo/ym-deflate/issues"
+  },
+  "homepage": "https://github.com/yuukimiyo/ym-deflate#readme",
+  "dependencies": {
+    "base64-js": "^1.3.1",
+    "buffer": "^5.5.0",
+    "zlib": "^1.0.5"
+  }
+}
