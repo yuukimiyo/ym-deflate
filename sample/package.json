@@ -1,0 +1,14 @@
+{
+  "name": "ym-deflate-sample",
+  "version": "1.0.0",
+  "description": "sample of ym-deflate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ym-deflate": "file:.."
+  }
+}
